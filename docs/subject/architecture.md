@@ -58,7 +58,7 @@ This layer performs the role of a *vitrage*:
 - makes experience possible  
 - creates system-specific interpretation  
 Therefore, subjectivity begins not from abstract reasoning, but from structured contact with the world.
-
+See also: [Vitrage Model](../perception/vitrage.md)
 ---
 
 ### 3.2 Event Fixation Layer
