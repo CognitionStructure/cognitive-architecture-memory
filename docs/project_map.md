@@ -38,7 +38,9 @@ It is a dynamic structure of experience.
 - contact point: present moment  
 
 Defines the limit of knowledge.
+## Ontological Constraints
 
+- [Two Infinities Model](ontology/two_infinities.md)
 ---
 
 ### 1.2 Vitrage (Perception Structure)
