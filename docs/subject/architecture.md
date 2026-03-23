@@ -57,9 +57,8 @@ This layer performs the role of a *vitrage*:
 - structures them  
 - makes experience possible  
 - creates system-specific interpretation  
+Therefore, subjectivity begins not from abstract reasoning, but from structured contact with the world.
 
-Subjectivity begins from structured contact with the world.
-See also: [Two Infinities Model](../ontology/two_infinities.md)
 ---
 
 ### 3.2 Event Fixation Layer
