@@ -205,6 +205,8 @@ experience → evaluation → regulation → learning → update
 ## Ethical Regulation
 
 - [Ethical Regulation](ethics/ethical_regulation.md)
+- [Ethical State Map](ethics/state_map.md)
+- 
 ---
 
 ### 6.3 Core Regulators
