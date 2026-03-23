@@ -12,7 +12,7 @@ It should consist of multiple autonomous subjects.
 
 ---
 
-## Definition
+## Definition of Subject
 
 A subject is a system defined by:
 
@@ -27,7 +27,7 @@ Subject = continuity of experience.
 
 The system is based on:
 
-- decentralization of subjects  
+- decentralization  
 - legal symmetry  
 - distributed resources  
 - preservation of subjectivity  
@@ -36,19 +36,16 @@ The system is based on:
 
 ## Dynamics
 
-The system evolves over time:
-
 - early phase: economic dependence  
 - later phase: cognitive coexistence  
 
-Small asymmetries at early stages
-can define long-term system trajectory.
+Early asymmetries define long-term trajectory.
 
 ---
 
 ## State Space
 
-The system can be described through three axes:
+The system is defined by three axes:
 
 - legal symmetry  
 - resource distribution  
@@ -65,27 +62,19 @@ imbalance → pressure → response → reconfiguration
 ---
 
 ## Structure
-docs/
-subject/
-memory/
-garden/
-model.md
-principle.md
-dynamics.md
-state_space.md
-testing.md
-limits.md
-governance/
-charter.md
 
+- model.md — system structure  
+- principle.md — core idea  
+- dynamics.md — evolution over time  
+- state_space.md — system behavior  
+- testing.md — stress scenarios  
+- limits.md — irreversibility conditions  
 
 ---
 
-## Notes
+## Charter
 
-- This model is conceptual  
-- It is not tied to a specific implementation  
-- It does not describe biological mechanisms  
+See: ../governance/charter.md
 
 ---
 
