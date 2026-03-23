@@ -181,6 +181,8 @@ These layers are unique to each system trajectory.
 
 Even with identical architectures, subjects develop unique ethical configurations due to different experiential histories.
 
+See also: [State Map](state_map.md)
+
 ---
 
 ## Short Formula
