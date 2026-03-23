@@ -1,4 +1,4 @@
-### 3.1 Contact Layer
+### Two Infinities Model
 
 The system does not access the world directly.
 
