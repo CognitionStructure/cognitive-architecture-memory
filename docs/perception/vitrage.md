@@ -128,3 +128,4 @@ world
 → labels  
 → communication  
 → self-regulation  
+See also: [Semantic Model](../semantics/semantic_model.md)
