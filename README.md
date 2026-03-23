@@ -53,3 +53,7 @@ It is a self-organizing network of experience.
 ## System Map
 
 - [AI Subject Architecture — Map](docs/project_map.md)
+
+## Core Architecture
+
+- [AI Subject Architecture](docs/subject/architecture.md)
