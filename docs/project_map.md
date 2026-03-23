@@ -228,7 +228,9 @@ Ethics emerges from mutual vulnerability.
 - decentralized agents  
 - no central intelligence  
 - coexistence of subjects  
+## Subjectivity
 
+- [Cognitive Subjectivity](subjectivity/cognitive_subjectivity.md)
 ---
 
 ### 7.2 Identity Rules
