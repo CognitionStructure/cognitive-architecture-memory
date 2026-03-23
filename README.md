@@ -1,99 +1,46 @@
 # Cognitive Architecture of Memory
 
-Conceptual model of memory as a self-structuring system.
+This repository describes a conceptual architecture of memory as a self-structuring system.
 
-## Overview
+The model is designed as a general framework for:
+- AI systems  
+- experience-based computation  
+- analysis of cognitive processes  
 
-This model describes memory not as storage, but as a dynamic network of experience.
+It does not describe biology and is not tied to a specific implementation.
 
-It is:
-- not a biological model  
-- not tied to a specific implementation  
-- intended as an architectural framework for AI and experience analysis  
+---
 
 ## Core Idea
 
-Memory does not store raw data.
+Memory is not storage.
 
-It transforms continuous input into structured experience.
+It is a dynamic system that transforms experience into structure.
 
 Stream → event → episode → network
 
-## Structure
+---
 
-### Micro-slice
+## What This Repository Contains
 
-The smallest unit of experience the system operates on.
+The architecture is decomposed into components:
 
-A micro-slice contains:
-- perceptual state  
-- system state  
-- context  
+- **Flow** — how experience enters the system  
+- **Compression** — how raw data becomes structured episodes  
+- **Network** — how episodes form a connected structure  
+- **Dynamics** — how the system evolves over time  
 
-It does not contain:
-- interpretation  
-- language  
-- conclusions  
+---
 
-### Episode
+## Navigation
 
-A structured representation derived from multiple micro-slices.
+- [Architecture](docs/memory_model/architecture.md)
+- [Flow](docs/memory_model/flow.md)
+- [Compression](docs/memory_model/compression.md)
+- [Network](docs/memory_model/network.md)
+- [Dynamics](docs/memory_model/dynamics.md)
 
-Contains:
-- event type  
-- structure  
-- causality  
-- outcome  
-
-### Semantic Axes
-
-Episodes are organized around axes of similarity.
-
-These act as:
-- classification mechanism  
-- entry points  
-- structure-forming elements  
-
-### Network
-
-Memory is a network of episodes:
-- interconnected  
-- overlapping  
-- dynamically updated  
-
-## Dynamics
-
-### Activation
-
-Triggered by:
-- similarity  
-- context  
-- task  
-
-Effects:
-- strengthens connections  
-- increases accessibility  
-
-### Generalization
-
-Occurs through:
-- accumulation of episodes  
-- pattern formation  
-- structural refinement  
-
-### Forgetting
-
-Based on:
-- lack of activation  
-- weak connectivity  
-- low significance  
-
-Stages:
-active → archive → removal  
-
-## Formula
-
-Memory = network of episodes + semantic axes + activation dynamics
+---
 
 ## Summary
 
@@ -103,12 +50,3 @@ Memory is:
 - not a list  
 
 It is a self-organizing network of experience.
-## Documentation
-
-Detailed architecture:
-
-- [Architecture](docs/memory_model/architecture.md)
-- [Flow](docs/memory_model/flow.md)
-- [Compression](docs/memory_model/compression.md)
-- [Network](docs/memory_model/network.md)
-- [Dynamics](docs/memory_model/dynamics.md)
