@@ -12,6 +12,11 @@ It separates:
 - society (how multiple subjects coexist)
 
 ---
+## Core Architecture
+
+- [AI Subject Architecture](subject/architecture.md)
+
+---
 
 ## 0. Core Principle
 
