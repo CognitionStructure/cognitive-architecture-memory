@@ -150,6 +150,10 @@ A → label → word → label → B
 
 Meaning mismatch is expected.
 
+## Semantic Layer
+
+- [Semantic Model](semantics/semantic_model.md)
+
 ---
 
 ## 5. Dynamics
