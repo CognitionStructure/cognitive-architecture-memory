@@ -103,3 +103,12 @@ Memory is:
 - not a list  
 
 It is a self-organizing network of experience.
+## Documentation
+
+Detailed architecture:
+
+- [Architecture](docs/memory_model/architecture.md)
+- [Flow](docs/memory_model/flow.md)
+- [Compression](docs/memory_model/compression.md)
+- [Network](docs/memory_model/network.md)
+- [Dynamics](docs/memory_model/dynamics.md)
