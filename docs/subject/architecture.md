@@ -59,7 +59,7 @@ This layer performs the role of a *vitrage*:
 - creates system-specific interpretation  
 
 Subjectivity begins from structured contact with the world.
-
+See also: [Two Infinities Model](../ontology/two_infinities.md)
 ---
 
 ### 3.2 Event Fixation Layer
