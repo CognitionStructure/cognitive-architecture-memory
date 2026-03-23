@@ -51,6 +51,9 @@ Defines the limit of knowledge.
 Flow:  
 world → perception structure → micro-slice → memory  
 
+## Perception Layer
+
+- [Vitrage Model](perception/vitrage.md)
 ---
 
 ## 2. Core Architecture
