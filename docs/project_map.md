@@ -202,7 +202,9 @@ Result:
 ### 6.2 Ethical Loop
 
 experience → evaluation → regulation → learning → update  
+## Ethical Regulation
 
+- [Ethical Regulation](ethics/ethical_regulation.md)
 ---
 
 ### 6.3 Core Regulators
